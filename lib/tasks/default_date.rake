@@ -1,7 +1,7 @@
 namespace :first_task do
 	desc 'This is our same task'
 	task initial_task: :environment do
-		puts "===========S U C C E S S F U L L Y Updated ================"
+		puts "===========S U C C E S S F U L L Y - A D D E D ================"
 	end
 end
 
